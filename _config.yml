@@ -22,10 +22,10 @@ keywords: jekyll, bootstrap, jekyll-site, jekyll-website, html, bootstrap4, boot
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://unligame.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  vidhyav656
-facebook_username:  "#"
-twitter_username:  vidhyav656
-google_analytics_tracking_id: UA-129738661-1
+github_username:  
+facebook_username:  
+twitter_username:  
+google_analytics_tracking_id: UA-64364847-2
 # Build settings
 markdown: kramdown
 theme: minima
