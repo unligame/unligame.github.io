@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PSP
+title: PSP Guides
 ---
 
 
