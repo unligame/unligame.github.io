@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Stylish Portfolio
+title: PSVita Guides
 ---
 <section class="content-section" id="portfolio">
     <div class="container">
